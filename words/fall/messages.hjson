@@ -1,0 +1,328 @@
+
+// Note to add a topic to the help, you have to do it explicitly.
+{
+
+    "servers" : {
+      "780070500331683870":"mrdev",
+      "778430360634654730":"mm"
+    },
+    "messages": {
+    
+      "joke": [
+        "<guild:mm>{{{targets}}}, What's a ghost's favorite makeup to wear? Mas-scare-a!",
+        "<guild:mm>{{{targets}}}, What kind of horse do ghosts ride? A night-mare.",
+        "<guild:mm>{{{targets}}}, What is the ghost having for dinner? Spook-etti.",
+        "<guild:mm>{{{targets}}}, Where do ghosts buy their clothes? At a boo-tique!",
+        "<guild:mm>{{{targets}}}, What does a ghost panda eat? Bam-boo.",
+        "<guild:mm>{{{targets}}}, What kind of ghost haunts a hen house? A poultry-giest.",
+        "<guild:mm>{{{targets}}}, Why don't ghosts lie?  Because you can always see right through them."
+      ],
+    
+       "comic": [
+        "<guild:mm>https://media.milanote.com/p/images/1Oxq401FdQeGav/fs5/1Oxq401FdQeGav.png?v=2&elementId=1Oxq401FdQeGav",
+        "<guild:mm>https://media.milanote.com/p/images/1Oxp9K1FdPRTan/m3O/image.png",
+        "<guild:mm>https://media.milanote.com/p/images/1ODmG11mqRHvdP/uLM/image.png",
+        "<guild:mm>https://media.milanote.com/p/images/1OxpLo1FdPRTaD/xPv/image.png",
+        "<guild:mm>https://media.milanote.com/p/images/1Oxpt11FdPRTav/xUq/image.png",
+        "<guild:mm>https://media.milanote.com/p/images/1OHviJ1z45gG72/7ER/1OHviJ1z45gG72.png",
+        "<guild:mm>https://media.milanote.com/p/images/1Oxq1v1FdQeGat/iop/1Oxq1v1FdQeGat.jpeg",
+        "<guild:mm>https://media.milanote.com/p/images/1Oxp931FdPRTaj/A5d/image.png",
+        "<guild:mm>https://app.milanote.com/media/p/images/1QEBKw1aKjU165/afC/image.png",
+        "<guild:mm>https://app.milanote.com/media/p/images/1QEBMD1aKjU167/WX2/image.png",
+        "<guild:mm>https://app.milanote.com/media/p/images/1QEBNp1aKjU168/XG8/image.png",
+        "<guild:mm>https://app.milanote.com/media/p/images/1QS64t1xINMd7i/ZYJ/1QS64t1xINMd7i.jpeg"
+      ],
+    
+     "trickortreat": [
+        "<guild:mm>https://giphy.com/gifs/2vmgb8ZGaeBsuSeo5I",
+        "<guild:mm>https://giphy.com/gifs/dog-halloween-gx5LOIx0kru7K",
+        "<guild:mm>https://giphy.com/gifs/goat-26BkNDEQQKEdh2tOg",
+        "<guild:mm>https://giphy.com/gifs/dog-cute-halloween-3ohhwFapJTVNPKITWU",
+      ],
+      
+      "haunted": [
+        "<guild:mm>https://giphy.com/gifs/halloween-death-gif-pMvCeTsk7xJss",
+        "<guild:mm>https://giphy.com/gifs/hocus-pocus-movie-photoset-FfpwDJ7m228GA",
+        "<guild:mm>https://giphy.com/gifs/ryder-winnonaryder-veronicassawyer-PUG4lA32vljsA",
+        "<guild:mm>https://giphy.com/gifs/halloween-spooky-church-ZciHK16TLhAaMt4yNq",
+        "<guild:mm>https://giphy.com/gifs/love-dance-BvC7TmEd7odbi",
+      ],
+
+      "whimsy": [
+        "<guild:mm>https://giphy.com/gifs/troywagner-dance-pumpkin-pumpkid-5xaOcLu2uwUsRVfCHPq",
+        "<guild:mm>https://giphy.com/gifs/ghost-pumpkin-hallowen-yxrZwsCQ6HPPmdD5Yp",
+        "<guild:mm>https://giphy.com/gifs/halloween-tim-burton-nightmare-before-christmas-DTTHNnQYoZFQI",
+        "<guild:mm>https://tenor.com/view/halloween-anime-cute-girls-twins-gif-26942686",
+        "<guild:mm>https://tenor.com/view/deer-weird-creepy-fingers-gif-6196721"
+      ],
+
+      "hug": [
+        "<guild:mm>https://tenor.com/view/ghosthug-gif-7626784",
+      ]
+
+
+      "calm": [
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute autumn puppy:\nhttps://giphy.com/gifs/corgi-puppy-autumn-kAzybbAzjrTI4",
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute autumn hedgehog:\nhttps://giphy.com/gifs/6LbxewmUrp06A",
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute autumn kitten:\nhttps://giphy.com/gifs/cat-autumn-EDpVRPFK5bjfq"
+
+      ],
+
+
+    "rage": [
+        "<guild:mm>\nhttps://giphy.com/gifs/sandiegozoo-smash-pumpkin-smashing-pumpkins-3JpQf0jtHvecN6VJK4",
+        "<guild:mm>\nhttps://giphy.com/gifs/angry-upset-calm-b6OXhTmKk0iC4"  
+      ],
+
+
+      "fire": [
+          "<guild:mm>https://tenor.com/view/caldron-witches-spells-potion-gif-7799449"
+      ],
+
+      "start": [   
+        "Are you ready? Here we ghost!",
+        "Let's do this, ghouls and goblins. GOoOoO!",
+        "Hey gourd-geous sprinters. Let's go, go, go!"
+
+      ],
+
+
+      "end": [
+        "Unbe-leaf-able job, everyone! ({{{targets}}})",
+        "Boo! {{{targets}}}, the sprint is over."
+        "Quoth the Raven, 'the sprint is over.' ({{{targets}}})",
+      ],
+
+      "quote": [ 
+        "“It's simple, really, very clear. Like music drifting in the air, invisible but everywhere.” — Jack Skellington, The Nightmare Before Christmas",
+        "“This is my costume. I'm a homicidal maniac. They look just like everyone else.” — Wednesday, The Addams Family",
+        "“Just because I cannot see it, doesn't mean I can't believe it” — Jack Skellington, The Nightmare Before Christmas",
+        "“When bad things happen, I know you want to believe they are a joke. But sometimes, life is scary, and dark. That's why we must find the light.” — BMO, Adventure Time",
+        "“Oh look, another glorious morning. Makes me sick.” — Winnifred, Hocus Pocus",
+        "“Anyone could see that the wind was a special wind this night, and the darkness took on a special feel because it was All Hallows' Eve.” — Ray Bradbury",
+        "“I'll stop wearing black when they make a darker color.” — Wednesday, The Addams Family",
+        "“A witch ought never to be frightened in the darkest forest, Granny Weatherwax had once told her, because she should be sure in her soul that the most terrifying thing in the forest was her.” — Sir Terry Pratchett"
+        "“Oh, there's an empty place in my bones, that calls out for something unknown” — Jack Skellington, The Nightmare Before Christmas",
+        "“This is Halloween, everybody make a scene!” — Ghosts, The Nightmare Before Christmas",
+      ],
+      "poem": [
+        {
+          "title": "All Hallows by Louise Glück",
+          "message":
+          '''
+          Even now this landscape is assembling.
+          The hills darken. The oxen
+          sleep in their blue yoke,
+          the fields having been
+          picked clean, the sheaves
+          bound evenly and piled at the roadside
+          among cinquefoil, as the toothed moon rises:
+          This is the barrenness
+          of harvest or pestilence.
+          And the wife leaning out the window
+          with her hand extended, as in payment,
+          and the seeds
+          distinct, gold, calling
+          Come here
+          Come here, little one
+          And the soul creeps out of the tree.
+          '''
+        },
+        {
+          "title": "First Fall by Maggie Smith",
+          "message":
+          '''
+          I’m your guide here. In the evening-dark
+          morning streets, I point and name.
+          Look, the sycamores, their mottled,
+          paint-by-number bark. Look, the leaves
+          rusting and crisping at the edges.
+          I walk through Schiller Park with you
+          on my chest. Stars smolder well
+          into daylight. Look, the pond, the ducks,
+          the dogs paddling after their prized sticks.
+          Fall is when the only things you know
+          because I’ve named them
+          begin to end. Soon I’ll have another
+          season to offer you: frost soft
+          on the window and a porthole
+          sighed there, ice sleeving the bare
+          gray branches. The first time you see
+          something die, you won’t know it might
+          come back. I’m desperate for you
+          to love the world because I brought you here
+          '''
+        },
+        {
+          "title": "The morns are meeker than they were- by Emily Dickinson",
+          "message":
+          '''
+          The morns are meeker than they were,
+          The nuts are getting brown;
+          The berry's cheek is plumper,
+          The rose is out of town.
+
+          The maple wears a gayer scarf,
+          The field a scarlet gown.
+          Lest I should be old-fashioned,
+          I'll put a trinket on.
+          '''
+        },
+        {
+           "title": "Spring and Fall by Gerard Manley Hopkins",
+           "message": 
+           '''
+           to a young child
+     
+           Márgarét, áre you gríeving
+           Over Goldengrove unleaving?
+           Leáves like the things of man, you
+           With your fresh thoughts care for, can you?
+           Ah! ás the heart grows older
+           It will come to such sights colder
+           By and by, nor spare a sigh
+           Though worlds of wanwood leafmeal lie;
+           And yet you wíll weep and know why.
+           Now no matter, child, the name:
+           Sórrow’s spríngs áre the same.
+           Nor mouth had, no nor mind, expressed
+           What heart heard of, ghost guessed:
+           It ís the blight man was born for,
+           It is Margaret you mourn for.
+           '''
+         },
+         {
+           "title": "Grace by Wendell Berry",
+           "message": 
+           '''
+           for Gurney Norman, quoting him
+           
+           The woods is shining this morning.
+           Red, gold and green, the leaves
+           lie on the ground, or fall,
+           or hang full of light in the air still.
+           Perfect in its rise and in its fall, it takes
+           the place it has been coming to forever.
+           It has not hastened here, or lagged.
+           See how surely it has sought itself,
+           its roots passing lordly through the earth.
+           See how without confusion it is
+           all that it is, and how flawless
+           its grace is. Running or walking, the way
+           is the same. Be still. Be still.
+           "He moves your bones, and the way is clear."
+           '''
+         },
+         {
+           "title": "Autumn by William Carlos William",
+           "message": 
+           '''
+            A stand of people
+            by an open
+
+            grave underneath
+            the heavy leaves
+
+            celebrates
+            the cut and fill
+
+            for the new road
+            where
+
+            an old man
+            on his knees
+
+            reaps a basket-
+            ful of
+
+            matted grasses for
+           '''
+         },
+         {
+           "title": "Autumn Movement by Carl Sandburg",
+           "message": 
+           '''
+           I cried over beautiful things knowing no beautiful thing lasts.
+
+           The field of cornflower yellow is a scarf at the neck of the copper sunburned woman,
+                the mother of the year, the taker of seeds.
+
+           The northwest wind comes and the yellow is torn full of holes, new beautiful things
+                come in the first spit of snow on the northwest wind, and the old things go,
+                not one lasts.
+           '''
+         },
+         {
+           "title": "Autumn Day by Rainer Marie Rilke",
+           "message": 
+           '''
+           Lord: it is time. The summer was immense.
+           Lay your long shadows on the sundials,
+           and on the meadows let the winds go free.
+
+           Command the last fruits to be full;
+           give them just two more southern days,
+           urge them on to completion and chase
+           the last sweetness into the heavy wine.
+
+           Who has no house now, will never build one.
+           Who is alone now, will long remain so,
+           will stay awake, read, write long letters
+           and will wander restlessly up and down
+           the tree-lines streets, when the leaves are drifting.
+           '''
+         },
+         {
+           "title": "Theme in Yellow by Carl Sandburg",
+           "message": 
+           '''
+           I spot the hills
+           With yellow balls in autumn.
+           I light the prairie cornfields
+           Orange and tawny gold clusters
+           And I am called pumpkins.
+           On the last of October
+           When dusk is fallen
+           Children join hands
+           And circle round me
+           Singing ghost songs
+           And love to the harvest moon;
+           I am a jack-o'-lantern
+           With terrible teeth
+           And the children know
+           I am fooling.
+           '''
+         }//,
+        // {
+        //   "title": "Her Kind by Anne Sexton",
+        //   "message": 
+        //   '''
+        //   I have gone out, a possessed witch,
+        //   haunting the black air, braver at night;
+        //   dreaming evil, I have done my hitch
+        //   over the plain houses, light by light:
+        //   lonely thing, twelve-fingered, out of mind.
+        //   A woman like that is not a woman, quite.
+        //   I have been her kind.
+//
+        //   I have found the warm caves in the woods,
+        //   filled them with skillets, carvings, shelves,
+        //   closets, silks, innumerable goods;
+        //   fixed the suppers for the worms and the elves:
+        //   whining, rearranging the disaligned.
+        //   A woman like that is misunderstood.
+        //   I have been her kind.
+//
+        //   I have ridden in your cart, driver,
+        //   waved my nude arms at villages going by,
+        //   learning the last bright routes, survivor
+        //   where your flames still bite my thigh
+        //   and my ribs crack where your wheels wind.
+        //   A woman like that is not ashamed to die.
+        //   I have been her kind.
+        //   '''
+        // }
+      ]
+      
+    }
+  }

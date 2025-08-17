@@ -1,0 +1,12 @@
+{
+
+"reactions": {
+
+      "pens": ["🏒", "🐧"],
+      "speckled": ["890926669198655508"], // the halloween speckled emoji
+      "halloween": ["🎃"],
+      "spooky": ["👻","🦇","🎃"],
+      "autumn": ["🍁"]
+  }
+
+}

@@ -1,0 +1,152 @@
+// Note to add a topic to the help, you have to do it explicitly.
+// Also.  HI, KATE!!!
+{
+
+    "messages": {
+    
+      "whimsy": [
+        "<guild:mm>https://giphy.com/gifs/AKtV37treIorS",
+        "<guild:mm>https://giphy.com/gifs/natgeowild-group-fabulous-flamingo-LXTwcOM0CM5XVOWYn9",
+        "<guild:mm>https://giphy.com/gifs/thottiebrand-lf4U8MpbPcWTILmb9n",
+        "<guild:mm>https://tenor.com/view/duck-ducks-swing-cute-animals-gif-15449339",
+        "<guild:mm>https://tenor.com/view/dog-hose-funny-pet-videos-funny-pet-video-gifs-spray-gif-9991793"
+      ],
+
+
+      "fire": [
+          "https://upload.wikimedia.org/wikipedia/commons/b/ba/Astrup_Jonsokb%C3%A5l.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/9/91/The_Feast_of_Saint_John.jpg",
+          "https://app.milanote.com/media/p/images/1Q6C5b1subD6dn/CaU/image.png",
+          "https://upload.wikimedia.org/wikipedia/commons/9/95/N_Astrup-St._Hansb%C3%A5l_ved_J%C3%B8lstervatnet.jpg"
+      ],
+
+
+      "quote": [ 
+        "<guild:mm>'Green was the silence, wet was the light, the month of June trembled like a butterfly.' — Pablo Neruda",
+        "<guild:mm>'Live in the sunshine, swim the sea, / Drink the wild air's salubrity' — Ralph Waldo Emerson",
+        "<guild:mm>'June is the mother of potentials, ducklings swim bravely perhaps to the submarine jaws of snapping turtles, lettuces lunge toward drought, tomatoes rear defiant stems toward cutworms, and families match the merits of sand and sunburn over fretful mountain nights loud with mosquito symphonies.' — John Steinbeck",
+        "<guild:mm>'You have a different kind of brightness... A kindness that will always make the cold ham and bitter rain of Eng-land seem like hot tea, and sweet strawberry jam, and summer showers.' — Lumpy Space Princess"
+      ],
+
+"poem": [
+        {
+          "guild":"mm",
+          "title": "Those Who Carry by Anna Kamienska",
+          "message":
+          '''
+          Those who carry pianos
+          to the tenth floor wardrobes and coffins
+          an old man with a bundle of wood limps beyond the horizon
+          a woman with a hump of nettles
+          a madwoman pushing a pram
+          full of vodka bottles
+          they will all be lifted
+          like a gull's feather like a dry leaf
+          like an eggshell a scrap of newspaper
+
+          Blessed are those who carry
+          for they shall be lifted.
+          '''
+        },
+        {
+          "guild":"mm",
+          "title": "Salute by A. R. Ammons",
+          "message":
+          '''
+          May happiness
+          pursue you,
+
+          catch you
+          often, and,
+
+          should it
+          lose you,
+
+          be waiting
+          ahead, making
+
+          a clearing
+          for you
+          '''
+        },
+        {
+                   "guild":"mm",
+          "title": "Failing and Flying by Jack Gilbert",
+          "message":
+          '''
+          Everyone forgets that Icarus also flew.
+          It's the same when love comes to an end,
+          or the marriage fails and people say
+          they knew it was a mistake, that everybody
+          said it would never work. That she was
+          old enough to know better. But anything
+          worth doing is worth doing badly.
+          Like being there by that summer ocean
+          on the other side of the island while
+          love was fading out of her, the stars
+          burning so extravagantly those nights that
+          anyone could tell you they would never last.
+          Every morning she was asleep in my bed
+          like a visitation, the gentleness in her
+          like antelope standing in the dawn mist.
+          Each afternoon I watched her coming back
+          through the hot stony field after swimming,
+          the sea light behind her and the huge sky
+          on the other side of that. Listened to her
+          while we ate lunch. How can they say
+          the marriage failed? Like the people who
+          came back from Provence (when it was Provence)
+          and said it was pretty but the food was greasy.
+          I believe Icarus was not failing as he fell,
+          but just coming to the end of his triumph.
+          '''
+        },
+        {
+                   "guild":"mm",
+           "title": "The Summer Day by Mary Oliver",
+           "message": 
+           '''
+           Who made the world?
+           Who made the swan, and the black bear?
+           Who made the grasshopper?
+           This grasshopper, I mean—
+           the one who has flung herself out of the grass,
+           the one who is eating sugar out of my hand,
+           who is moving her jaws back and forth instead of up and down—
+           who is gazing around with her enormous and complicated eyes.
+           Now she lifts her pale forearms and thoroughly washes her face.
+           Now she snaps her wings open, and floats away.
+           I don't know exactly what a prayer is.
+           I do know how to pay attention, how to fall down
+           into the grass, how to kneel down in the grass,
+           how to be idle and blessed, how to stroll through the fields,
+           which is what I have been doing all day.
+           Tell me, what else should I have done?
+           Doesn't everything die at last, and too soon?
+           Tell me, what is it you plan to do
+           with your one wild and precious life?
+           '''
+         },
+         {
+           "guild":"mm",
+           "title": "The Peace of Wild Things by Wendell Berry",
+           "message": 
+           '''
+          When despair for the world grows in me
+          and I wake in the night at the least sound
+          in fear of what my life and my children’s lives may be,
+          I go and lie down where the wood drake
+          rests in his beauty on the water, and the great heron feeds.
+          I come into the peace of wild things
+          who do not tax their lives with forethought
+          of grief. I come into the presence of still water.
+          And I feel above me the day-blind stars
+          waiting with their light. For a time
+          I rest in the grace of the world, and am free.
+           '''
+         }
+      ]
+
+
+    }
+  }

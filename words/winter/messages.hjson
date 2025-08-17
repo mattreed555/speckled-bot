@@ -1,0 +1,276 @@
+// Note to add a topic to the help, you have to do it explicitly.
+// Also.  HI, KATE!!!
+{
+
+    "messages": {
+    
+
+      "whimsy": [
+        "<guild:mm>https://giphy.com/gifs/animation-snow-winter-3o6ZsXVpxRhXN8WHqU",
+        "<guild:mm>https://tenor.com/view/adventure-time-singing-ice-golem-cute-gif-18454343",
+        "<guild:mm>https://tenor.com/view/tiantian-snow-happy-gif-5002926",
+        "<guild:mm>https://giphy.com/gifs/parampara-paramparapenguin-RKMMNVWOmlWtq06sLq",
+        "<guild:mm>https://tenor.com/view/otter-dance-dancing-dinner-time-gif-12861138",
+        "<guild:mm>https://tenor.com/view/dog-jumping-on-a-snow-snow-dog-wagging-tail-doingthingswrong-gif-16768808"
+      ],
+      
+      "calm": [
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute puppy:\nhttps://giphy.com/gifs/cute-NIsWtysJUrvTG",
+        "<guild:mm>{{{targets}}}, it's ok. Here are cute penguins:\nhttps://tenor.com/view/baby-penguins-cute-head-shake-long-neck-penguin-gif-17157593",
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute baby seal:\nhttps://giphy.com/gifs/pbsnature-baby-seal-LKMRVrRYVPtizgXGPP",
+      ],
+
+      "go": [
+        "https://tenor.com/view/noot-penguin-ready-letsgo-gif-5347612"
+      ],
+
+      "fire": [
+          "<guild:mm>https://giphy.com/gifs/fire-snow-flame-LPwdysSdD1RRe"
+      ],
+
+      "start": [   
+        '''
+        <guild:mm>
+        Even though it's colder than the bones of an Icy Antarctopelta, are you ready? Let's go!
+        https://media.milanote.com/p/images/1L4Nso1kisEYbC/bVG/dinobernie.png
+        ''',
+        '''
+        <guild:mm>
+        I'm so ready to sprint, I have goose bumps!
+        https://media.milanote.com/p/images/1L4Nty1kisEYbK/m52/berniepark.png
+        ''',
+        '''
+        <guild:mm>
+        PUT ON YOUR WINTER COAT AND BRACE YOURSELF.  
+        https://media.milanote.com/p/images/1L4Nsq1kisEYbD/gMd/bernieaviary.png
+        '''
+
+      ],
+
+      "time": [
+        "There are {{{minremaining}}} and {{{secremaining}}} remaining in this sprint.",
+        "<guild:mm>Don't count your chickens before they're hatched... Which happens in exactly {{{minremaining}}} and {{{secremaining}}}. (Also, chickens are baby dinosaurs).",
+        "<guild:mm>This egg hatches in {{{minremaining}}} and {{{secremaining}}}!"
+      ],
+
+
+      "end": [
+        '''
+        <guild:mm>{{{targets}}}:Bella appreciates all your hard work.
+        https://cdn.discordapp.com/attachments/789325498723205120/809641343739101234/IMG_5138.jpg
+        ''',
+        "<guild:mm>Im-peck-able job, everyone! ({{{targets}}})",
+        "<guild:mm>No egrets here! {{{targets}}}: you all did so well!",
+        "Time is up! How'd you do? ({{{targets}}})",
+        "<guild:mm>{{{targets}}}: you are all beautiful human beings and egg-cellent sprinters. #Proud"
+      ],
+
+      "quote": [ 
+        "<guild:mm>“Winter is a season of recovery and preparation.” — Paul Theroux",
+        "<guild:mm>“In the depths of winter, I finally learned that within me there lay an invincible summer.” — Albert Camus, Return to Tipasa",
+        "<guild:mm>“You can’t get too much winter in the winter.” — Robert Frost, Snow",
+        "<guild:mm>“The idea that Winter could actually be enjoyable would never have occurred to Ramtop people, who had eighteen different words for snow. *All of them, unfortunately, unprintable.”  — Sir Terry Pratchett, Wyrd Sisters",
+        "<guild:mm>“Winter kept us warm, covering / Earth in forgetful snow, feeding / A little life with dried tubers.” — T. S. Eliot, The Waste Land",
+        "<guild:mm>“A guy drops one piece of ham in the snow and he never hears the end of it!” — Jake the Dog.",
+        "<guild:mm>“Suppose we did our work/like the snow, quietly, quietly./leaving nothing out.” — Wendell Berry, Like Snow",
+        "<guild:mm>“Kindness is like a snow. It beautifies everything it covers.” — attributed to Kahlil Gibran"
+      ],
+
+"poem": [
+        {
+          "guild":"mm",
+          "title": "Snow Flakes by Emily Dickinson",
+          "message":
+          '''
+          I counted till they danced so
+          Their slippers leaped the town –
+          And then I took a pencil
+          To note the rebels down –
+          And then they grew so jolly
+          I did resign the prig –
+          And ten of my once stately toes
+          Are marshalled for a jig!
+          '''
+        },
+        
+        {
+          "guild":"mm",
+          "title": "Winter Trees by William Carlos Williams",
+          "message":
+          '''
+          All the complicated details
+          of the attiring and
+          the disattiring are completed!
+          A liquid moon
+          moves gently among
+          the long branches.
+          Thus having prepared their buds
+          against a sure winter
+          the wise trees
+          stand sleeping in the cold.
+          '''
+        },
+        {
+          "guild":"mm",
+          "title": "Winter Love by Linda Gregg",
+          "message":
+          '''
+          I would like to decorate this silence,   
+          but my house grows only cleaner
+          and more plain. The glass chimes I hung   
+          over the register ring a little
+          when the heat goes on.
+          I waited too long to drink my tea.   
+          It was not hot. It was only warm.
+          '''
+        },
+        {
+          "guild":"mm",
+          "title": "Lead by Mary Oliver",
+          "message":
+          '''
+          Here is a story
+          to break your heart.
+          Are you willing?
+          This winter
+          the loons came to our harbor
+          and died, one by one,
+          of nothing we could see.
+          A friend told me
+          of one on the shore
+          that lifted its head and opened
+          the elegant beak and cried out
+          in the long, sweet savoring of its life
+          which, if you have heard it,
+          you know is a sacred thing.,
+          and for which, if you have not heard it,
+          you had better hurry to where
+          they still sing.
+          And, believe me, tell no one
+          just where that is.
+          The next morning
+          this loon, speckled
+          and iridescent and with a plan
+          to fly home
+          to some hidden lake,
+          was dead on the shore.
+          I tell you this
+          to break your heart,
+          by which I mean only
+          that it break open and never close again
+          to the rest of the world.
+          '''
+        },
+        {
+          "guild":"mm",
+          "title": "February by Boris Pasternak",
+          "message":
+          '''
+          February. Get ink, shed tears.
+          Write of it, sob your heart out, sing,
+          While torrential slush that roars
+          Burns in the blackness of the spring.
+          
+          Go hire a buggy. For six grivnas,
+          Race through the noice of bells and wheels
+          To where the ink and all you grieving
+          Are muffled when the rainshower falls.
+          
+          To where, like pears burnt black as charcoal,
+          A myriad rooks, plucked from the trees,
+          Fall down into the puddles, hurl
+          Dry sadness deep into the eyes.
+          
+          Below, the wet black earth shows through,
+          With sudden cries the wind is pitted,
+          The more haphazard, the more true
+          The poetry that sobs its heart out.
+          '''
+        },
+        {
+          "guild":"mm",
+          "title": "The Cold by Wendell Berry",
+          "message":
+          '''
+          How exactly good it is
+          to know myself
+          in the solitude of winter,
+          my body containing its own
+          warmth, divided from all
+          by the cold; and to go
+          separate and sure
+          among the trees cleanly
+          divided, thinking of you
+          perfect too in your solitude,
+          your life withdrawn into
+          your own keeping
+          —to be clear, poised
+          in perfect self-suspension
+          toward you, as though frozen.
+          And having known fully the
+          goodness of that, it will be
+          good also to melt.
+          '''
+        },
+        {
+           "guild":"mm",
+           "title": "Snowy Night by Mary Oliver",
+           "message": 
+           '''
+           Last night, an owl
+           in the blue dark
+           tossed an indeterminate number
+           of carefully shaped sounds into
+           the world, in which,
+           a quarter of a mile away, I happened
+           to be standing.
+           I couldn’t tell
+           which one it was –
+           the barred or the great-horned
+           ship of the air –
+           it was that distant. But, anyway,
+           aren’t there moments
+           that are better than knowing something,
+           and sweeter? Snow was falling,
+           so much like stars
+           filling the dark trees
+           that one could easily imagine
+           its reason for being was nothing more
+           than prettiness. I suppose
+           if this were someone else’s story
+           they would have insisted on knowing
+           whatever is knowable – would have hurried
+           over the fields
+           to name it – the owl, I mean.
+           But it’s mine, this poem of the night,
+           and I just stood there, listening and holding out
+           my hands to the soft glitter
+           falling through the air. I love this world,
+           but not for its answers.
+           And I wish good luck to the owl,
+           whatever its name –
+           and I wish great welcome to the snow,
+           whatever its severe and comfortless
+           and beautiful meaning.
+           '''
+        },
+        {
+           "guild":"mm",
+           "title": "The Dead of Winter, by Samuel Menashe",
+           "message": 
+           '''
+           In my coat I sit
+           At the window sill
+           Wintering with snow
+           That did not melt
+           It fell long ago
+           At night, by stealth
+           I was where I am
+           When the snow began
+           '''
+         }
+      ]
+
+
+    }
+  }

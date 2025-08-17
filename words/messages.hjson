@@ -1,0 +1,333 @@
+// Note to add a topic to the help, you have to do it explicitly.
+// Also.  HI, KATE!!!
+{
+
+    "messages": {
+    
+      "hydrate": [
+      "{{{targets}}}: Don't forget to stay hydrated! (It's important)\nhttps://giphy.com/gifs/vice-spain-VCma6o7KQ4H4Y",
+      "{{{targets}}}: Don't forget to stay hydrated! (It's important)\nhttps://giphy.com/gifs/406T6Yi4rT8y8MlXYa",
+      "{{{targets}}}: Don't forget to stay hydrated! (It's important)\nhttps://giphy.com/gifs/Byana3FscAMGQ",
+      "{{{targets}}}: Don't forget to stay hydrated! (It's important)\nhttps://giphy.com/gifs/bubbles-husky-blowing-k9b6CX6oZelhK"
+      ],
+     
+     "comic": [
+        "<guild:mm>https://poorlydrawnlines.com/wp-content/uploads/2023/07/devils_advocate.png",
+        "<guild:mm>https://cdn.discordapp.com/attachments/791475291469512774/1134874512245133465/IMG_2988.png",
+        "<guild:mm>https://cdn.discordapp.com/attachments/793978826030972959/1126222395917746176/IMG_2770.png",
+        "<guild:mm>https://cdn.discordapp.com/attachments/790418228622655498/1102761929166028920/IMG_2485.png",
+        "<guild:mm>https://cdn.discordapp.com/attachments/896098703503400975/1093299031712747560/IMG_2335.png",
+        "<guild:mm>https://cdn.discordapp.com/attachments/790418228622655498/1073043531679146065/IMG_1969.png",
+        "<guild:mm>https://cdn.discordapp.com/attachments/790418228622655498/1046934785248997416/IMG_1458.png",
+        "<guild:mm>https://cdn.discordapp.com/attachments/778430360634654735/1127341766081777816/20230708_164201.jpg",
+        "<guild:mm>https://app.milanote.com/media/p/images/1Qr1Zj1RDQ8v42/0Pz/1Qr1Zj1RDQ8v42.jpeg",
+        "<guild:mm>https://cdn.discordapp.com/attachments/790418228622655498/1128354107082682399/IMG_7576.png"
+      ],
+     
+     "whimsy": [
+        "<guild:mm>https://app.milanote.com/media/p/images/1R0y2v1sdfc64x/Ud7/Dog%20with%20a%20butterfly%20on%20its%20face.%20-%20Imgur.gif",
+        "<guild:mm>https://tenor.com/view/adventure-time-singing-ice-golem-cute-gif-18454343",
+        "<guild:mm>https://tenor.com/view/psychedelic-shrooms-dancing-mushrooms-gif-9290099",
+        "<guild:mm>https://giphy.com/gifs/nickelodeon-anime-avatar-the-last-airbender-aang-l1ydPyGCoN43kpdwRO",
+        "<guild:mm>https://giphy.com/gifs/natgeowild-group-fabulous-flamingo-LXTwcOM0CM5XVOWYn9",
+        "<guild:mm>https://giphy.com/gifs/adventure-time-rainbow-cartoon-network-f1fpMxNfg8GQw",
+        "<guild:mm>https://giphy.com/gifs/adventure-time-scared-apple-huPNDBxnw2SCA",
+        "<guild:mm>https://giphy.com/gifs/cute-animals-TkUZUZ9E6KhJC",
+        "<guild:mm>https://giphy.com/gifs/turtle-tortoise-animal-friendship-MngEsCTQcZRW8"
+      ],
+
+      "go": [
+        "https://tenor.com/view/go-go-go-toby-stephens-bill-beaman-hunter-killer-move-gif-18343775",
+        "https://tenor.com/view/cat-typing-work-intense-gif-11385819",
+        "https://tenor.com/view/we-can-do-this-people-together-teamwork-motivation-gif-8357228",
+        "https://tenor.com/view/excited-dance-amy-poehler-leslie-knope-lets-do-it-gif-16122983",
+        "https://giphy.com/gifs/thefastsaga-59WkxrzP5an7Xdh4lb",
+        "https://tenor.com/view/noot-penguin-ready-letsgo-gif-5347612"
+      ],
+
+      "fire": [
+          "<guild:mm>https://tenor.com/view/are-you-afraid-of-the-gif-10256800"
+      ],
+      
+      
+       "toadscream": [
+          "<guild:mm>https://tenor.com/view/gif-gif-19494661"
+      ],
+      
+
+      "start": [   
+        '''
+        <guild:mm>
+        Are you ready?
+        https://tenor.com/view/bobs-burgers-im-ready-lets-go-linda-gif-3535003
+        ''',
+        '''
+        <guild:mm>
+        PUT ON YOUR WINTER COAT AND BRACE YOURSELF.  
+        https://media.milanote.com/p/images/1L4Nsq1kisEYbD/gMd/bernieaviary.png
+        ''',
+        '''
+        <guild:mm>
+        Get crackin'!
+        https://tenor.com/view/10-giant-octopus-giant-squid-ship-destroyed-no-sailing-gif-13775661
+        ''',
+        "https://giphy.com/gifs/ian-mckellen-gandolf-magento-74ExXfqsbJ8l2",
+        "<guild:mm>Let's do this, makers! Go go go!",
+        "Go go go!"
+
+      ],
+
+      "time": [
+        "There are {{{minremaining}}} and {{{secremaining}}} remaining in this sprint.",
+        "<guild:mm>Don't count your chickens before they're hatched... Which happens in exactly {{{minremaining}}} and {{{secremaining}}}. (Also, chickens are baby dinosaurs).",
+        "<guild:mm>This egg hatches in {{{minremaining}}} and {{{secremaining}}}!"
+      ],
+
+
+      "end": [
+        '''
+        <guild:mm>{{{targets}}}:Bella appreciates all your hard work.
+        https://cdn.discordapp.com/attachments/789325498723205120/809641343739101234/IMG_5138.jpg
+        ''',
+        "<guild:mm>Im-peck-able job, everyone! ({{{targets}}})",
+        "<guild:mm>No egrets here! {{{targets}}}: you all did so well!",
+        "Time is up! How'd you do? ({{{targets}}})",
+        "<guild:mm>{{{targets}}}: you are all beautiful human beings and egg-cellent sprinters. #Proud"
+      ],
+
+      "reassure soothe": [   
+        "<guild:mm>Relax, {{{targets}}}, you're doing fine.",
+        "<guild:mm>{{{targets}}}, keep going! It'll be worth it in the end!",
+        "<guild:mm>You are the most perfect {{{targets}}} there is.",
+        "<guild:mm>You inspire me, {{{targets}}}.",
+        "<guild:mm>You can do this, {{{targets}}}!",
+        "<guild:mm>{{{targets}}}, you are strong.",
+        "<guild:mm>{{{targets}}} You're even more beautiful on the inside than you are on the outside.",
+        "<guild:mm>It's ok, {{{targets}}}.  Everything is going to be ok.",
+        "<guild:mm>You’re not alone in this, {{{targets}}}. I'm here for you and so is {{{sender}}}.",
+        "<guild:mm>{{{targets}}}, be kind and gentle with yourself. You are doing the best you can.",
+        "<guild:mm>{{{targets}}}, everything will turn out okay in the end.",
+        "<guild:mm>You are a winner, {{{targets}}}! 😍`",
+        "<guild:mm>You're doing a great job, {{{targets}}}. Take a deep breath.",
+        "<guild:mm>You're doing fine. Maybe go get a cup of tea?\nhttps://tenor.com/view/adventure-time-jake-the-dog-coffee-insomnia-black-eye-gif-16269827",
+        "<guild:mm>{{{sender}}} thinks you are {{{thebest}}}, {{{targets}}}!"
+      ],
+
+      "hurt": [
+       "<guild:mm>Ouch. Hurtful, {{{targets}}}.  But I know you mean well, and I'm sure there are ways I could improve."
+      ],
+
+      "lonely": [
+        "<guild:mm>It's ok, {{{sender}}}.  You're not alone.  I'm here.\nhttps://giphy.com/gifs/friends-analogy-VfyC5j7sR4cso"
+      ],
+
+      "toughlove": [
+        "<guild:mm>{{{targets}}}, pull yourself together!\nhttps://tenor.com/view/the-incredibles-abusive-abuse-pixar-pull-yourself-together-gif-4842685",
+        "<guild:mm>{{{targets}}}, As Maggie Smitth says...\nhttps://tenor.com/view/get-it-together-man-pull-yourself-together-gif-14145280",
+        "<guild:mm>{{{targets}}} \nhttps://tenor.com/view/no-stop-get-it-together-gif-11893392",
+        "<guild:mm>{{{targets}}}, okay, that was rough. \nhttps://tenor.com/view/get-it-together-dan-levy-david-david-rose-schitts-creek-gif-20792475"
+          
+      ],
+      
+      "edna": [
+        "<guild:mm>\nhttps://tenor.com/view/the-incredibles-abusive-abuse-pixar-pull-yourself-together-gif-4842685",
+        "<guild:mm>\nhttps://tenor.com/view/pixar-incredibles-the-edna-ednamode-gif-10908381",
+        "<guild:mm>\nhttps://tenor.com/view/ednamode-edna-theincredibles-incredible-what-gif-10908406",
+        "<guild:mm>\nhttps://tenor.com/view/edna-mode-incredibles-never-look-back-darling-gif-13509233"
+      ],
+
+      "hype": [
+          '''
+          <guild:mm>{{{targets}}}: you're doing great!  This wattled curassow is proud of you:
+          https://cdn.discordapp.com/attachments/789325498723205120/809642804145029160/800px-Wattled_Curassow_Crax_globulosa_Bird_1400px.png
+          ''',
+          "<guild:mm>This much productivity should be ill-eagle! ({{{targets}}})",
+          "<guild:mm>{{{targets}}}!!! You are awesome!",
+          "<guild:mm>{{{targets}}}: You're pretty amazing!",
+          "<guild:mm>On a scale from 1 to 10, {{{targets}}}, you're an 11.",
+          "<guild:mm>{{{targets}}} you are a F***ING LEGEND! You've got this!",
+          "<guild:mm>{{{targets}}} you are going to do amazing things! I know it.",
+          "<guild:mm>Sherlock Homes has nothing on you!:\nhttps://giphy.com/gifs/sherlock-3o7TKVSE5isogWqnwk"
+     //     "<guild:mm>{{{targets}}}, you are amazing and I believe in you. Keep up the good work! It's worth it."
+      ],
+
+      "calm": [
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute puppy:\nhttps://tenor.com/view/dog-tail-wag-cute-snow-winter-gif-17156273",
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute puppy:\nhttps://tenor.com/view/puppy-cute-dog-sleepy-gif-4946550",
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute turtle:\nhttps://tenor.com/view/turtle-flyingturtle-happy-cute-baby-turtle-gif-14926069",
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute giraffe:\nhttps://tenor.com/view/lol-omg-laugh-out-loud-gif-11034186",
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute kitten:\nhttps://tenor.com/view/sleepy-cat-sleepy-head-cutie-kitten-gif-13347200",
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute kitten:\nhttps://tenor.com/view/kittens-cats-cute-gif-10978979",
+        "<guild:mm>{{{targets}}}, it's ok. Here's a cute puppy:\nhttps://tenor.com/view/please-doggy-cute-puppy-gif-6206352"
+      ],
+
+      "test": [
+        "<guild:mm>{{{yas}}} {{{sender}}} thinks you are {{{thebest}}}, {{{targets}}}! This is a {{{truth}}}!"
+      ],
+      
+      "eleceed": [
+        "<guild:mm>“Why am I so good at everything?” - Kayden",
+        "<guild:mm>“I, the Great Kayden, taught you so that should've been a piece of cake!” - Kayden",
+        "<guild:mm>“Here's a kitty punch, you punk!”- Kayden",
+        "<guild:mm>“I'm not acting weird. That's just how I am. I am weird.” - Jisuk",
+        "<guild:mm>“We all know I'm great, no need to mention the obvious.” - Kayden",
+        "<guild:mm>“N… No… The Mr. Great Kayden… can’t… succumb… to… napping… I… can’t…” - Kayden"
+      ],
+
+      "hug": [
+      "<guild:mm>https://giphy.com/gifs/cute-adventure-time-jake-the-dog-OwfLkHf7S5UmQ",
+      "<guild:mm>https://tenor.com/view/ghosthug-gif-7626784",
+      "<guild:mm>https://tenor.com/view/dog-hug-bff-best-friend-friend-gif-9512793"
+      ]
+
+      "panic": [
+        "<guild:mm>There are so many words!:\nhttps://giphy.com/gifs/sherlock-sherlock-holmes-shut-up-a-study-in-pink-3o7abLPoFq6adq1h9m",
+        "<guild:mm>\nhttps://giphy.com/gifs/problems-nrXif9YExO9EI"       
+      ],
+
+      "rage": [
+        "<guild:mm>\nhttps://giphy.com/gifs/moriarty-sherlock-NX74J1QCbdrHy",
+        "<guild:mm>\nhttps://tenor.com/view/anger-rage-gif-5455153"  
+      ],
+
+      "quote": [ 
+        "<guild:mm>'If everything seems under control, you’re not going fast enough.' — Mario Andretti",
+        "<guild:mm>'I would rather die of passion than of boredom.' — Emile Zola",
+        "<guild:mm>'People get built different. We don't need to figure it out, we just need to respect it.' — Princess Bubblegum, Adventure Time",
+        "<guild:mm>'Sometimes life is like this dark tunnel. You can't always see the light at the end of the tunnel, but if you just keep moving... you will come to a better place.' — Uncle Iroh, Avatar",
+        "<guild:mm>'Sucking at something is the first step towards being sorta good at something.' — Jake the Dog, Adventure Time",
+        "<guild:mm>'Success is the sum of small efforts repeated day in and day out.' — Robert Collier",
+        "<guild:mm>'Imagine jellyfish were ocean balloons that you could float through the ocean with.' - The Kate Cummings",
+        "<guild:mm>'Even when things look really, really stupid, we still have to try.' - BMO"
+    
+      ],
+      
+      "shame": [
+           '''
+          <guild:mm>{{{targets}}}: Shame Shame Shame!
+          https://giphy.com/gifs/mrw-mods-bethesda-vX9WcCiWwUF7G
+          '''
+      ],
+
+"poem": [
+        {
+          "guild":"mm",
+          "title": "Those Who Carry by Anna Kamienska",
+          "message":
+          '''
+          Those who carry pianos
+          to the tenth floor wardrobes and coffins
+          an old man with a bundle of wood limps beyond the horizon
+          a woman with a hump of nettles
+          a madwoman pushing a pram
+          full of vodka bottles
+          they will all be lifted
+          like a gull's feather like a dry leaf
+          like an eggshell a scrap of newspaper
+
+          Blessed are those who carry
+          for they shall be lifted.
+          '''
+        },
+        {
+          "guild":"mm",
+          "title": "Salute by A. R. Ammons",
+          "message":
+          '''
+          May happiness
+          pursue you,
+
+          catch you
+          often, and,
+
+          should it
+          lose you,
+
+          be waiting
+          ahead, making
+
+          a clearing
+          for you
+          '''
+        },
+        {
+                   "guild":"mm",
+          "title": "Failing and Flying by Jack Gilbert",
+          "message":
+          '''
+          Everyone forgets that Icarus also flew.
+          It's the same when love comes to an end,
+          or the marriage fails and people say
+          they knew it was a mistake, that everybody
+          said it would never work. That she was
+          old enough to know better. But anything
+          worth doing is worth doing badly.
+          Like being there by that summer ocean
+          on the other side of the island while
+          love was fading out of her, the stars
+          burning so extravagantly those nights that
+          anyone could tell you they would never last.
+          Every morning she was asleep in my bed
+          like a visitation, the gentleness in her
+          like antelope standing in the dawn mist.
+          Each afternoon I watched her coming back
+          through the hot stony field after swimming,
+          the sea light behind her and the huge sky
+          on the other side of that. Listened to her
+          while we ate lunch. How can they say
+          the marriage failed? Like the people who
+          came back from Provence (when it was Provence)
+          and said it was pretty but the food was greasy.
+          I believe Icarus was not failing as he fell,
+          but just coming to the end of his triumph.
+          '''
+        },
+     //   {
+     //              "guild":"mm",
+     //      "title": "The Summer Day by Mary Oliver",
+     //      "message": 
+     //      '''
+     //      Who made the world?
+     //      Who made the swan, and the black bear?
+     //      Who made the grasshopper?
+     //      This grasshopper, I mean—
+     //      the one who has flung herself out of the grass,
+     //      the one who is eating sugar out of my hand,
+     //      who is moving her jaws back and forth instead of up and down—
+     //      who is gazing around with her enormous and complicated eyes.
+     //      Now she lifts her pale forearms and thoroughly washes her face.
+     //      Now she snaps her wings open, and floats away.
+     //      I don't know exactly what a prayer is.
+     //      I do know how to pay attention, how to fall down
+     //      into the grass, how to kneel down in the grass,
+     //      how to be idle and blessed, how to stroll through the fields,
+     //      which is what I have been doing all day.
+     //      Tell me, what else should I have done?
+     //      Doesn't everything die at last, and too soon?
+     //      Tell me, what is it you plan to do
+     //      with your one wild and precious life?
+     //      '''
+     //    },
+         {
+           "guild":"mm",
+           "title": "The Peace of Wild Things by Wendell Berry",
+           "message": 
+           '''
+          When despair for the world grows in me
+          and I wake in the night at the least sound
+          in fear of what my life and my children’s lives may be,
+          I go and lie down where the wood drake
+          rests in his beauty on the water, and the great heron feeds.
+          I come into the peace of wild things
+          who do not tax their lives with forethought
+          of grief. I come into the presence of still water.
+          And I feel above me the day-blind stars
+          waiting with their light. For a time
+          I rest in the grace of the world, and am free.
+           '''
+         }
+      ]
+
+
+    }
+  }

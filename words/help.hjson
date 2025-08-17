@@ -1,0 +1,108 @@
+// This builds the help that will be displayed when a user types "@speckled help" as well as when they visit the website.
+// The name will apear as the heading.  The description will be next as normal text.  
+// If you provie an example it will be formatted as code at the bottom.
+
+// You can test these without using discord by going here: https://www.speckledbot.info/help
+
+[
+  {
+    "name": "intro",
+    "description": "I'll introduce myself.",
+    "example":"@speckled intro"
+  },
+  {
+    "name": "help",
+    "description": "I'll list the available commands.",
+  },
+  {
+    "name": "portrait",
+    "description": "I'll visualize myself as best as I can in text.",
+  },
+  {
+    "name": "sprint",
+    "description": 
+    '''
+    Start a sprint for this channel. A sprint is a set amount of time where you focus on a goal or piece of work.
+Use "for" to specify how long you want to sprint and "in" to specify when you want to start from the point in time the command was issued. All numbers are measured in minutes. They can be specified in any order and, if omitted, will default to 25 and 1.
+    ''',
+    "example":"@speckled sprint for 20 in 3" 
+  },
+  {
+    "name": "join",
+    "description": "Join a sprint if one is active. You can optionally say your goal.",
+    "example":"@speckled join I am going to do a draft of a sketch." 
+  },
+  {
+    "name": "time",
+    "description": "See how much time there is left in a sprint.",
+  },
+  {
+    "name": "cancel",
+    "description": "Cancel the current sprint. It will make me sad, but I understand you sometimes need to cancel.",
+  },
+  {
+    "name": "report",
+    "description": "After the sprint is over, say what you accomplished.", 
+    "example":"@speckled report I finished my sketch and made tea." 
+  },
+  {
+    "name": "hype",
+    "description": "I will hype you up since you are an amazing person and deserve hype. You can also optionally send a hype message to someone by saying a name. If no name is given, I will hype everyone in the sprint, or if there is no sprint, then I will hype just you.",
+    "example":"@speckled hype @TK",
+    "guild": "mm"
+  },
+  {
+    "name": "tough",
+    "description": "I will practice tough love and push you to get it together. You can optionally send tough love to someone by saying a name. If no name is given, I will tough love everyone in the sprint, or if there is no sprint, then I will tough love just you.",
+    "example":"@speckled tough @MR",
+    "guild": "mm"
+  },
+    {
+    "name": "edna",
+    "description": "I will give you advice according to edna.",
+    "example":"@speckled edna @MR",
+    "guild": "mm"
+  },
+  {
+    "name": "calm",
+    "description": "I will show you a picture of a cute baby animal. You can optionally send a calming animal gif to someone by saying their name. If no name is given, I will send cute calm to everyone in the sprint, or if there is no sprint, then I will send it to you.",
+    "example":"@speckled calm @WS",
+    "guild": "mm"
+  },
+  {
+    "name": "reassure (or soothe)",
+    "description": "I will reasure you or others that everything will be alright. You can optionally send a message to someone by saying their name. If no name is given, I will reassure everyone in the sprint, or if there is no sprint, then I will reassure just you.",
+    "example":"@speckled reassure @AS",
+    "guild": "mm"
+  },
+  {
+    "name": "panic",
+    "description": "I will share a gif that expresses panic. There is ambiguity about what this might mean. If you are truly panicking, maybe DM a friend.",
+    "example":"@speckled panic",
+    "guild": "mm"
+  },                
+  {
+    "name": "rage",
+    "description": "I will join in with your rage. I'm sure you have a good reason for being mad.",
+    "example":"@speckled rage",
+    "guild": "mm"
+  },                
+  {
+    "name": "quote",
+    "description": "I will share an edifying quote.",
+    "example":"@speckled quote",
+    "guild": "mm"
+  },             
+  {
+    "name": "poem",
+    "description": "I will share a nice poem",
+     "example":"@speckled poem",
+    "guild": "mm"
+  },             
+  {
+    "name": "whimsy",
+    "description": "I will share a whimsical gif",
+    "example":"@speckled whimsy",
+    "guild": "mm"
+  }
+]
