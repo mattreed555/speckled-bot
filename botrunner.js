@@ -1,6 +1,6 @@
 const { Client, Intents } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.GUILD_MESSAGE_REACTIONS] });
-
+require('dotenv').config();
 
 const fs = require("fs");
 
@@ -104,7 +104,7 @@ function startServer() {
 	console.log('Ready!');
 });
 
-
+ console.log(process.env.DISCORD_TOKEN);
    
   client.login(process.env.DISCORD_TOKEN).catch(console.error);
   
