@@ -1,5 +1,3 @@
-//const fss = require("fs");
-//const filePath = '.data/randomness.json';
 
 const myInMemoryDb = {
   memory: {}
@@ -18,17 +16,10 @@ const getMemory = (category) => {
 
   return [];
   
- // if (fss.existsSync(filePath)) {
- //   return JSON.parse(fss.readFileSync(filePath, "utf-8" ));
- // }
- // else {
-//    return {};
- // }
 }
 
 const saveMemory = (category, list) => {
   myInMemoryDb.memory[category] = list;
- // fss.writeFileSync(filePath, JSON.stringify(memory), { encoding:"utf-8" });
 }
 
 
@@ -53,8 +44,6 @@ const findNumber = (list, count) => {
     
   }
   
-  // we couldn't find a list, so use a value that is at the start of the list
-  // which is going to be at least maxMemory old
   return list[0];
   
   
@@ -81,7 +70,6 @@ const getRandomIndex = (category, count) => {
 }
 
   
-
 
 module.exports = {
   getRandomIndex: getRandomIndex

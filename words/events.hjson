@@ -29,14 +29,14 @@
 //{id:"CFM 2025-06-11", scheduledTime:"2025-06-11T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Strawberry Moon! 🍓"},
 //{id:"CFM 2025-07-10", scheduledTime:"2025-07-10T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Buck Supermoon! 🦌"},
 //{id:"CFM 2025-08-09", scheduledTime:"2025-08-09T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Sturgeon Moon! 🐟"},
-{id:"CFM 2025-09-07", scheduledTime:"2025-09-07T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon last night. The Harvest Supermoon! 🌾 (And there was a partial eclipse too!). Yes, I know I'm a day late, but even friendly speckled bots make mistakes. #TimeZonesAreHard"},
+//{id:"CFM 2025-09-07", scheduledTime:"2025-09-07T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon last night. The Harvest Supermoon! 🌾 (And there was a partial eclipse too!). Yes, I know I'm a day late, but even friendly speckled bots make mistakes. #TimeZonesAreHard"},
 {id:"CFM 2025-10-06", scheduledTime:"2025-10-06T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Hunters Supermoon! 🏹"},
 {id:"CFM 2025-11-05", scheduledTime:"2025-11-05T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Mourning Supermoon! 😢"},
 {id:"CFM 2025-12-04", scheduledTime:"2025-12-04T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Ice Moon! 🧊"},
 
 //{id:"CS 2025-06-20", scheduledTime:"2025-06-20T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"It's the summer solstice, the longest day of the year. ☀️. Twilight will last past 10PM."},
 //{id:"CS 2025-03-20", scheduledTime:"2025-03-20T03:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"It's the vernal equinox! Hello spring! 🌸"},
-{id:"CS 2025-09-22", scheduledTime:"2025-09-22T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"It's the autumnal equinox! #SpookySeason draws near! 👻 🧹 🎃 🍂"},
+//{id:"CS 2025-09-22", scheduledTime:"2025-09-22T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"It's the autumnal equinox! #SpookySeason draws near! 👻 🧹 🎃 🍂"},
 {id:"CS 2025-12-21", scheduledTime:"2025-12-21T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"It's the winter solstice, the longest night of the year. 🌃"},
 
 
@@ -59,8 +59,8 @@
 //{id:"ES 2025-07-29", scheduledTime:"2025-07-29T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},
 //{id:"ES 2025-08-12", scheduledTime:"2025-08-12T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},
 //{id:"ES 2025-08-26", scheduledTime:"2025-08-26T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},
-{id:"ES 2025-09-09", scheduledTime:"2025-09-09T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},
-{id:"ES 2025-09-23", scheduledTime:"2025-09-23T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},
+//{id:"ES 2025-09-09", scheduledTime:"2025-09-09T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},
+//{id:"ES 2025-09-23", scheduledTime:"2025-09-23T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},
 {id:"ES 2025-10-07", scheduledTime:"2025-10-07T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},
 {id:"ES 2025-10-21", scheduledTime:"2025-10-21T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},
 {id:"ES 2025-11-04", scheduledTime:"2025-11-04T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},

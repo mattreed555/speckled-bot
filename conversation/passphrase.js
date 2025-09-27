@@ -7,6 +7,7 @@ const adjs = words.readWordsText("passphrase-adj").split("\n");
 
 const capitalize = (s) => {
   if (typeof s !== 'string') return ''
+  s = s.trim();
   return s.charAt(0).toUpperCase() + s.slice(1)
 }
 
@@ -14,7 +15,8 @@ const generatePassphrase = () => {
   const obj = objects[Math.floor(Math.random() * objects.length)];
   const adj = adjs[Math.floor(Math.random() * adjs.length)];
   
-  return capitalize(adj) + " " + capitalize(obj);
+  
+  return capitalize(adj) + ' ' + capitalize(obj);
 }
 
 const doTheWork = async (message) => {

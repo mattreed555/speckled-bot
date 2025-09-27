@@ -7,6 +7,12 @@ const getPassPhrase = () => {
     if (!filePath) {
         throw new Error("filePath required");
     }
+	
+    // If the file doesn't exist, create it with a default passphrase
+    if (!fss.existsSync(filePath)) {
+        fss.writeFileSync(filePath, "Latitude Farm", "utf-8");
+        console.log(`Created new passphrase file at ${filePath}`);
+    }
 
     return fss.readFileSync(filePath, "utf-8" );
 }

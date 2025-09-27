@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.6.0",
-    "dotenv": "^17.2.1",
+    "dotenv": "^17.2.2",
     "hjson": "^3.2.2",
     "mustache": "^4.0.1",
     "node-cron": "^2.0.3",
