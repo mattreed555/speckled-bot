@@ -69,131 +69,28 @@
 {id:"ES 2025-12-16", scheduledTime:"2025-12-16T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"},
 {id:"ES 2025-12-29", scheduledTime:"2025-12-29T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Sprinting event tonight! What are you going to work on?"}, 
  
- // October 2024 
+// October 2025 
 
-//{id:"OT 2024-10-02", scheduledTime:"2024-10-02T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 2nd! This morning's art is Fall Plowing by Grant Wood (1939 \nhttps://app.milanote.com/media/p/images/1PSMEJ1MXPVkew/dfI/1PSMEJ1MXPVkew.png"},
-//{id:"OT 2024-10-03", scheduledTime:"2024-10-03T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"It's October 3rd! Today's artwork is Fruit Harvest in a Mountain Garden by Marianne von Werefkin (Before 1939)\nhttps://app.milanote.com/media/p/images/1PTfZt1MY4wb7v/aUa/1PTfZt1MY4wb7v.jpeg"},
-//{id:"OT 2024-10-04", scheduledTime:"2024-10-04T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"It's October 4rd! Les Pommes by Félix Vallotton (1911). Le pommes is facncy french for apple so eat an apple today!\nhttps://app.milanote.com/media/p/images/1P1fis12hz9ids/nAu/1P1fis12hz9ids.jpeg"},
-//
-//{id:"OT 2024-10-07", scheduledTime:"2024-10-07T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 7th! This morning's fall art is Three witches and three wolves by Eugene Grassett (1900):\nhttps://app.milanote.com/media/p/images/1S17He1x12GacM/mzr/1S17He1x12GacM.jpeg"},
-//{id:"OT 2024-10-08", scheduledTime:"2024-10-08T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", 
-//    message:
-//        '''
-//        It's October 8th.  A morning poem:
-//
-//	    Her Kind by Anne Sexton
-//	      
-//	    I have gone out, a possessed witch,
-//        haunting the black air, braver at night;
-//        dreaming evil, I have done my hitch
-//        over the plain houses, light by light:
-//        lonely thing, twelve-fingered, out of mind.
-//        A woman like that is not a woman, quite.
-//        I have been her kind.
-//
-//        I have found the warm caves in the woods,
-//        filled them with skillets, carvings, shelves,
-//        closets, silks, innumerable goods;
-//        fixed the suppers for the worms and the elves:
-//        whining, rearranging the disaligned.
-//        A woman like that is misunderstood.
-//        I have been her kind.
-//
-//        I have ridden in your cart, driver,
-//        waved my nude arms at villages going by,
-//        learning the last bright routes, survivor
-//        where your flames still bite my thigh
-//        and my ribs crack where your wheels wind.
-//        A woman like that is not ashamed to die.
-//        I have been her kind.
-//
-//        '''
-//         },
-//{id:"OT 2024-10-09aaa", scheduledTime:"2024-10-09T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 9th! A comic from Poorly Drawn Lines:\nhttps://app.milanote.com/media/p/images/1SxLyw1tufT2c9/AJg/1SxLyw1tufT2c9.jpeg"},
-//{id:"OT 2024-10-10", scheduledTime:"2024-10-10T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 10th! This is Alone in the Park by Wladyslaw Wankie (1900):\nhttps://app.milanote.com/media/p/images/1QcRhl1SIRu0f5/z9A/1QcRhl1SIRu0f5.jpeg"},
-//{id:"OT 2024-10-11", scheduledTime:"2024-10-11T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 11th! Today's art is Frank Paulin's I Was a Teenage Frankenstein, Times Square, New York (1957):\nhttps://app.milanote.com/media/p/images/1PmwT11Ria1L0Q/AsQ/image.png"},
-//
-//
-//		 
-//{id:"OT 2024-10-14", scheduledTime:"2024-10-14T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 14th! This morning's art is Autumn Landscape by Maurice de Vlaminck (1905):\nhttps://app.milanote.com/media/p/images/1PTfUa1vQMAM89/ikn/1PTfUa1vQMAM89.png"},
-//{id:"OT 2024-10-15", scheduledTime:"2024-10-15T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", 
-//    message:
-//        '''
-//        It's October 15th.  A morning poem to ponder:
-//
-//        Grace by Wendell Berry
-//
-//        for Gurney Norman, quoting him
-//        
-//        The woods is shining this morning.
-//        Red, gold and green, the leaves
-//        lie on the ground, or fall,
-//        or hang full of light in the air still.
-//        Perfect in its rise and in its fall, it takes
-//        the place it has been coming to forever.
-//        It has not hastened here, or lagged.
-//        See how surely it has sought itself,
-//        its roots passing lordly through the earth.
-//        See how without confusion it is
-//        all that it is, and how flawless
-//        its grace is. Running or walking, the way
-//        is the same. Be still. Be still.
-//        "He moves your bones, and the way is clear."
-//
-//        '''
-//         },
-//{id:"OT 2024-10-16", scheduledTime:"2024-10-16T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 16th! This morning's art is Into October by Helen Frankenthaler (1983):\nhttps://app.milanote.com/media/p/images/1PCeGD1fLptQ4X/7Uy/1PCeGD1fLptQ4X.jpeg"},
-//{id:"OT 2024-10-17", scheduledTime:"2024-10-17T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 17th! A morning comic by Ellis Rosen:\nhttps://app.milanote.com/media/p/images/1PD9fa1VUxUn6d/Yqn/1PD9fa1VUxUn6d.png"},
-//{id:"OT 2024-10-18", scheduledTime:"2024-10-18T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 18th! Here's Autumn onto the Wall by Wu Guanzhong (1991):\nhttps://app.milanote.com/media/p/images/1PTfRq1vQMAM87/IsR/1PTfRq1vQMAM87.png"},
-//
-//{id:"OT 2024-10-21a", scheduledTime:"2024-10-21T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 21st! I present to you Waltz by Jaune Quick-to-See Smith (2002):\nhttps://app.milanote.com/media/p/images/1Qol6n16zUHXcW/Igt/1Qol6n16zUHXcW.jpeg"},
-//{id:"OT 2024-10-22", scheduledTime:"2024-10-22T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", 
-//    message:
-//        '''
-//        It's October 22nd!  Here is a poem for y'all:
-//
-//        Ghost in the Land of Skeletons by Christopher Kennedy
-//		
-//		    For Russell Edson
-//        
-//		    If not for flesh's pretty paint, we're just a bunch of skeletons, working hard to deny the fact of bones. Teeth remind me that we die. That's why I never smile, except when looking at a picture of a ghost, captured by a camera lens, in a book about the paranormal. When someone takes a picture of a spirit, it gives me hope. I admire the ones who refuse to go away. Lovers scorned and criminals burned. I love the dead little girl who plays in her yard, a spectral game of hide and seek. It's the fact they don't know they're dead that appeals to me most. Like a man once said to me, Do you ever feel like you're a ghost? Sure, I answered, every day. He laughed at that and disappeared. All I could think was he beat me to it.
-//
-//        '''
-//         },
-//{id:"OT 2024-10-23", scheduledTime:"2024-10-23T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 23th! Today's October art, Issa and the Skull of the Giant by Nicholas Roerich (1932):\nhttps://app.milanote.com/media/p/images/1PSMIn1MXPVkey/XjM/1PSMIn1MXPVkey.png"},
-//{id:"OT 2024-10-24", scheduledTime:"2024-10-24T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 24th! Here's a morning comic from Safely Endagered: \nhttps://app.milanote.com/media/p/images/1PJKtr1zWuLD9D/X6h/1PJKtr1zWuLD9D.png"},
-//{id:"OT 2024-10-25", scheduledTime:"2024-10-25T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 25th! This morning's art is The Sexton Disguised as a Ghost ( The Boy Who Left Home to Learn Fear) by David Hockney (1969):https://app.milanote.com/media/p/images/1Pp06s1IeRgMeY/hJM/image.png"},
-//
-//{id:"OT 2024-10-28", scheduledTime:"2024-10-28T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 28th! This morning's artwork is The Incantation or The Sacred Wood by Paul Sérusier (1891):\nhttps://app.milanote.com/media/p/images/1PSMDm1MXPVkeu/IO9/1PSMDm1MXPVkeu.png"},
-//{id:"OT 2024-10-29", scheduledTime:"2024-10-29T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", 
-//    message:
-//        '''
-//        It's October 29th! Here is a poem:
-//
-//        Theme in Yellow by Carl Sandburg
-//        
-//	    	I spot the hills
-//        With yellow balls in autumn.
-//        I light the prairie cornfields
-//        Orange and tawny gold clusters
-//        And I am called pumpkins.
-//        On the last of October
-//        When dusk is fallen
-//        Children join hands
-//        And circle round me
-//        Singing ghost songs
-//        And love to the harvest moon;
-//        I am a jack-o'-lantern
-//        With terrible teeth
-//        And the children know
-//        I am fooling.
-//		
-//        '''
-//         },
-//{id:"OT 2024-10-30", scheduledTime:"2024-10-30T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 30th! Here's The Lantern Parade by Thomas Cooper Gotch (1918):\nhttps://app.milanote.com/media/p/images/1PTbRf1vQJzb8k/0IL/1PTbRf1vQJzb8k.png"},
-//{id:"OT 2024-10-31", scheduledTime:"2024-10-31T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 31st (also known as Halloween or All Hallows' Eve)! A comic by Tom Gauld:\nhttps://app.milanote.com/media/p/images/1SJ7Oa1JHek14M/9mR/image.png"},
-
-
+//{id:"OT 2025-10-06", scheduledTime:"2025-10-06T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 6nd!\nhttps://media.milanote.com/p/images/1OHviJ1z45gG72/7ER/1OHviJ1z45gG72.png"},
+//{id:"OT 2025-10-07", scheduledTime:"2025-10-07T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 7th! Road In A Multicolored October by Gabriele Münter (1959):\nhttps://app.milanote.com/media/p/images/1PTg4P1MY4wb7x/6ak/1PTg4P1MY4wb7x.png"},
+//{id:"OT 2025-10-08", scheduledTime:"2025-10-08T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 8th! Mountain Lake—Autumn by Marsden Hartley (~1910):\nhttps://app.milanote.com/media/p/images/1QmG6m1u80ns4p/x42/1QmG6m1u80ns4p.jpeg"},
+//{id:"OT 2025-10-09", scheduledTime:"2025-10-09T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 9th!\nhttps://app.milanote.com/media/p/images/1V4FTT1ZyPDRaj/eJI/image.png"},
+//{id:"OT 2025-10-10", scheduledTime:"2025-10-10T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 10th! Autumn landscape - Autumn on the Oschwand by Cuno Amiet (1906):\nhttps://app.milanote.com/media/p/images/1OZFGS1zxNzyaH/B5B/image.png"},
+//{id:"OT 2025-10-13", scheduledTime:"2025-10-13T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 13th! Disease and Death by Joseph Alanen:\nhttps://app.milanote.com/media/p/images/1R9AEe1tRuXY6a/dTi/1R9AEe1tRuXY6a.jpeg"},
+//{id:"OT 2025-10-14", scheduledTime:"2025-10-14T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 14th!\nhttps://app.milanote.com/media/p/images/1R9AER1tRuXY6c/DW9/1R9AER1tRuXY6c.jpeg"},
+//{id:"OT 2025-10-15", scheduledTime:"2025-10-15T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 15th! Tunk Mountains, Autumn, Maine by John Marin (1945):\nhttps://app.milanote.com/media/p/images/1QdujP18tgH9cZ/dzT/1QdujP18tgH9cZ.jpeg"},
+//{id:"OT 2025-10-16", scheduledTime:"2025-10-16T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 16th! The Listening Room by René Magritte (1952):\nhttps://app.milanote.com/media/p/images/1V4Id51PxGSW5x/s35/image.png"},
+//{id:"OT 2025-10-17", scheduledTime:"2025-10-17T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 17th! Autumn in France by Emily Carr (1911):\nhttps://app.milanote.com/media/p/images/1QnE8o1bY4qt3o/h5y/1QnE8o1bY4qt3o.jpeg"},
+//{id:"OT 2025-10-20", scheduledTime:"2025-10-20T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 20th! The Haunted Wood by Elizabeth Eleanor Siddal (1856):\nhttps://app.milanote.com/media/p/images/1PtUsg1zjXa81F/SXX/1PtUsg1zjXa81F.png"},
+//{id:"OT 2025-10-21", scheduledTime:"2025-10-21T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 21st! Red Woods by Lois Dodd (1977):\nhttps://app.milanote.com/media/p/images/1PSMyu1OFk5A0H/LJ8/1PSMyu1OFk5A0H.png"},
+//{id:"OT 2025-10-22", scheduledTime:"2025-10-22T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 22nd! Murder Mystery by Margo Hoff (1945):\nhttps://app.milanote.com/media/p/images/1R0wIv10j2NK2T/Ayp/1R0wIv10j2NK2T.jpeg"},
+//{id:"OT 2025-10-23", scheduledTime:"2025-10-23T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 23rd!\nhttps://app.milanote.com/media/p/images/1QPaez16KprK5v/tEd/1QPaez16KprK5v.jpeg"},
+//{id:"OT 2025-10-24", scheduledTime:"2025-10-24T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 24th! October Gold by Franklin Carmichael (1922)\nhttps://app.milanote.com/media/p/images/1PSLWm1OFk5A0D/QWi/1PSLWm1OFk5A0D.png"},
+//{id:"OT 2025-10-27", scheduledTime:"2025-10-27T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 27th! Benton Murdoch Spruance’s Vanity II: Memorial (1950):\nhttps://app.milanote.com/media/p/images/1QXVNP1Y5SDMeI/gqq/1QXVNP1Y5SDMeI.jpeg"},
+//{id:"OT 2025-10-28", scheduledTime:"2025-10-28T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 28th!\nhttps://app.milanote.com/media/p/images/1SxLyw1tufT2ca/1NI/1SxLyw1tufT2ca.jpeg"},
+//{id:"OT 2025-10-29", scheduledTime:"2025-10-29T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 29th! illustration from Une semaine de bonté by Max Ernst (1934):\nhttps://app.milanote.com/media/p/images/1Pqyjw1CM1sDb4/p5D/image.png"},
+//{id:"OT 2025-10-30", scheduledTime:"2025-10-30T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 30th! Autumn Evening by Ferdinand Hodler (1892):\nhttps://app.milanote.com/media/p/images/1PTaLF1vQJzb8i/ZwT/1PTaLF1vQJzb8i.png"},
+//{id:"OT 2025-10-31", scheduledTime:"2025-10-31T11:00:00.000Z", guild:"778430360634654730", channel:"790418228622655498", prefix:"October Thing", message:"Happy October 31st (aka Halloween, aka All Hallows' Eve)!\nFuneral Symphony (VI) by Mikalojus Konstantinas Ciurlionis (1903):\nhttps://app.milanote.com/media/p/images/1V4FWa1ZyPDRak/j9v/image.png"},
 
 
 ]
