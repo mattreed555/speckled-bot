@@ -16,7 +16,7 @@
 //{id:"EH 2025-03-08", scheduledTime:"2025-03-08T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"It's International Women's Day! ✊ #SpeckledSolidarity"}, 
 //{id:"EH 2025-04-22", scheduledTime:"2025-04-22T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Today is Earth Day! 🌎 What are you planning to do to make a difference?"},
 //{id:"EH 2025-04-30", scheduledTime:"2025-04-30T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Halloween is just 6 months away! #SpookySeason will be here before you know it! Start thinking about your costumes. I’m going to dress up as a Dystopian Undead Gryphon Egg."},
-{id:"EH 2025-10-01", scheduledTime:"2025-10-01T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"It's the first day of October!  Happy Spooky Season!\nhttps://tenor.com/view/jackskellington-halloween-nightmarebeforechristmas-october-pumpkinking-gif-12614297"},
+//{id:"EH 2025-10-01", scheduledTime:"2025-10-01T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"It's the first day of October!  Happy Spooky Season!\nhttps://tenor.com/view/jackskellington-halloween-nightmarebeforechristmas-october-pumpkinking-gif-12614297"},
 {id:"EH 2025-10-31", scheduledTime:"2025-10-31T04:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Happy Halloween! Trick or treat yo' self.  And make time to make a scene.\nhttps://giphy.com/gifs/halloween-1993-this-is-q1Uk2p7e22VPO"},
 {id:"EH 2025-12-25", scheduledTime:"2025-12-25T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Happy Christmas! 🎄\nhttps://giphy.com/gifs/viralhog-5dZYGvxrjfthsL9xdN"},
 
@@ -30,7 +30,7 @@
 //{id:"CFM 2025-07-10", scheduledTime:"2025-07-10T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Buck Supermoon! 🦌"},
 //{id:"CFM 2025-08-09", scheduledTime:"2025-08-09T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Sturgeon Moon! 🐟"},
 //{id:"CFM 2025-09-07", scheduledTime:"2025-09-07T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon last night. The Harvest Supermoon! 🌾 (And there was a partial eclipse too!). Yes, I know I'm a day late, but even friendly speckled bots make mistakes. #TimeZonesAreHard"},
-{id:"CFM 2025-10-06", scheduledTime:"2025-10-06T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Hunters Supermoon! 🏹"},
+{id:"CFM 2025-10-06", scheduledTime:"2025-10-06T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Harvest/Hunters Supermoon! 🏹"},
 {id:"CFM 2025-11-05", scheduledTime:"2025-11-05T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Mourning Supermoon! 😢"},
 {id:"CFM 2025-12-04", scheduledTime:"2025-12-04T11:00:00.000Z", guild:"778430360634654730", channel:"789593188221714492", message:"Full moon tonight. The Ice Moon! 🧊"},
 
